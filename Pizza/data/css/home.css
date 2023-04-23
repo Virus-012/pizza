@@ -1,0 +1,58 @@
+/* h1, h2, h3, h4, h5, h6 {
+    font-family: 'Palanquin Dark';
+}  */
+
+body p {
+    font-family: 'Open Sans', sans-serif;
+    font: italic;
+    font-weight: 550;
+}
+
+.icon {
+    height: 70px;
+    width: 70px;
+    padding-bottom: 1rem;
+}
+
+.img-bg {
+    background-size: cover;
+    background-image: url('../images/pizza-bg.jpg');
+}
+
+
+.img-bg-2 {
+    background-size: cover;
+    background-image: url('../images/pizza-bg-2\ \(2\).jpg');
+}
+
+
+.bg-or {
+    background-color: orangered;
+}
+
+
+.img-bg-3 {
+    background-size: cover;
+    background-image: url('../images/pizza-bg-3.jpg');
+}
+
+
+.a-1 a {
+    color: orangered;
+    line-height: 2.5rem;
+}
+
+.or p {
+    color: orangered;
+    line-height: 1.75rem;
+}
+
+
+#clock {
+    font-size: 4em;;
+    width: auto;
+    margin: 0px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
